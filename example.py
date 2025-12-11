@@ -1,3 +1,4 @@
+#import all necessary files
 from flask import Flask, request, render_template, redirect
 import os
 import easyocr
